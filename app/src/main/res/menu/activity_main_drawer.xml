@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group  android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_speechtotext"
+            android:icon="@drawable/mic"
+            android:title="Let's Interact" />
+        <item
+            android:id="@+id/nav_texttospeech"
+            android:icon="@drawable/read"
+            android:title="Let's Read" />
+        <item
+            android:id="@+id/nav_write"
+            android:icon="@drawable/write"
+            android:title="Let's Write" />
+
+
+    </group>
+
+        <group
+            android:id="@+id/menu_bottom"
+            android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/feedback"
+                android:title="Send Feedback" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/help"
+                android:title="Help" />
+
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/exit"
+                android:title="Exit" />
+        </group>
+
+
+</menu>

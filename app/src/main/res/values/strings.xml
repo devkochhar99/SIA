@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">SIA</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+
+
+    <string-array name="Rules">
+        <item>"Tell me a joke"</item>
+        <item>"Open Chrome"</item>
+        <item>"Multiply 23 with 5"</item>
+        <item>"What is the time now?"</item>
+        <item>"What is the date today?"</item>
+        <item>"Call Ambulance"</item>
+        <item>"Who are you?"</item>
+        <item>"More options please!!"</item>
+    </string-array>
+
+
+    <string-array name="Rules2">
+        <item>"1. App needs an active internet connection."</item>
+        <item>"2. App needs Google Search(or Voice Search)"</item>
+        <item>"3. Ensure that speaker volume is not set to mute."</item>
+        <item>"4. When you start the app first time, the app will ask your name. Please click on the mic button and tell your name.The app will remember your name and will interact with you more friendly!!"</item>
+    </string-array>
+
+
+
+    <string-array name="Rules1">
+        <item>"What is my name?"</item>
+        <item>"How old am I?"</item>
+        <item>"What is the time now?"</item>
+        <item>"What is the date today?"</item>
+        <item>"What is the date today?"</item>
+        <item>"Tell me a joke"</item>
+        <item>"Multiply 23 with 5"</item>
+        <item>"Divide 25 by 5"</item>
+        <item>"Add 45 to 5"</item>
+        <item>"Subtract 56 by 6"</item>
+        <item>"Call fire department"</item>
+        <item>"Call Ambulance"</item>
+        <item>"Call Police"</item>
+        <item>"Who are you?"</item>
+        <item>"Where are you from?"</item>
+        <item>"What is your father's name?"</item>
+        <item>"What is your name?"</item>
+        <item>"Who is your brother?"</item>
+        <item>"Who is your sister?"</item>
+        <item>"Open Chrome"</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
